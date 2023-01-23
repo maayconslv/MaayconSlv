@@ -4,13 +4,13 @@
 
 ### Oioi, sou Maycon e estou iniciando na programação!
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayconslv&bg_color=0d1117&color=F48F3D&line=eec83e&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayconslv&bg_color=0d1117&color=F48F3D&line=eec83e&point=cf6e1f&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
   <a href="https://github.com/MayconSlv">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mayconslv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconslv&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mayconslv&show_icons=true&icon_color=F48F3D&bg_color=0d1117&text_color=eec83e&border_color=F48F3D&title_color=F48F3D&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconslv&layout=compact&langs_count=7&icon_color=F48F3D&bg_color=0d1117&text_color=eec83e&border_color=F48F3D&title_color=F48F3D"/>
   </a>
 </div>
 
