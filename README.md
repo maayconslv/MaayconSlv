@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=618FD6&height=120&section=header"/>
+
 ### Oioi, sou Maycon e estou iniciando na programação!
 
 <div align="center">
