@@ -23,10 +23,6 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=E4C817&labelColor=0D1117)&nbsp; 
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=2F74C0&labelColor=0D1117)&nbsp; 
 
-### Outros conhecimentos:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&labelColor=0D1117)&nbsp;
-
 ### Estudando nesse momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=2F74C0&labelColor=0D1117)&nbsp; 
