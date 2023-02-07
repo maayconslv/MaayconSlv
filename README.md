@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F48F3D&size=35&center=true&vCenter=true&width=1000&lines=Opa!+Eu+sou+Maycon,+;Bem-vindo+ao+meu+github;+:%29)](https://git.io/typing-svg)
 
-<p align="justify">Oioi, sou Maycon Silva, tenho 20 anos e estou estudando programação no institudo Programadores do Amanhã. E também sigo me especializando em React pela trilha ignite da Rocketseat. Comecei meus estudos em JavaScript no final de 2022, e tenho evoluído constantemente minha sskills desde então. Já desenvolvi diversos projetos utilizando tecnologias como: React Js, Typescript e espero que curtam acompanhar minha evolução a partir de meus repositórios!</p>
+<p align="justify">Oioi, sou Maycon Silva, tenho 20 anos e estou estudando programação no institudo Programadores do Amanhã. E também sigo me especializando em React pela trilha ignite da Rocketseat. Comecei meus estudos em JavaScript no final de 2022, e tenho evoluído constantemente minha skills desde então. Já desenvolvi diversos projetos utilizando tecnologias como: React Js, Typescript e espero que curtam acompanhar minha evolução a partir de meus repositórios!</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayconslv&bg_color=0d1117&color=F48F3D&line=eec83e&point=cf6e1f&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
