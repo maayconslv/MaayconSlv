@@ -9,8 +9,8 @@
 
 <div align="center" margin="1rem">
   <a href="https://github.com/MayconSlv">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mayconslv&show_icons=true&icon_color=F48F3D&bg_color=0d1117&text_color=eec83e&border_color=F48F3D&title_color=F48F3D&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconslv&layout=compact&langs_count=7&icon_color=F48F3D&bg_color=0d1117&text_color=eec83e&border_color=F48F3D&title_color=F48F3D"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mayconslv&show_icons=true&icon_color=F48F3D&bg_color=0d1117&text_color=efc83e&border_color=F48F3D&title_color=F48F3D&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconslv&layout=compact&langs_count=7&icon_color=F58F3D&bg_color=0d1117&text_color=eec83e&border_color=F48F3D&title_color=F48F3D"/>
   </a>
 </div>
 
