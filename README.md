@@ -17,15 +17,15 @@
 ##
 
 ### Skills principais:
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=HTML5&&logoColor=eeb63elabelColor=DD4B25)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff0&labelColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=E4C817&labelColor=0D1117)&nbsp; 
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=2F74C0&labelColor=0D1117)&nbsp; 
+![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=HTML5&&logoColor=eeb63elabelColor=DD4B25)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Estudando nesse momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=2F74C0&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff0&labelColor=0D1117)&nbsp;
 
 ### Contato:
