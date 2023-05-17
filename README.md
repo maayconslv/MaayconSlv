@@ -27,7 +27,7 @@
 ### Estudando nesse momento:
 ![Next](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff0&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React.native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### Contato:
 
