@@ -4,9 +4,6 @@
 
 <p align="justify">Oioi, sou Maycon Silva, tenho 20 anos e estou estudando programação na ONG Programadores do Amanhã. E também sigo me especializando em React pela trilha ignite da Rocketseat. Comecei meus estudos em JavaScript no final de 2022, e tenho evoluído constantemente minhas skills desde então. Já desenvolvi diversos projetos utilizando tecnologias como: React Js, Typescript e espero que curtam acompanhar minha evolução a partir de meus repositórios!</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayconslv&bg_color=0d1117&color=F48F3D&line=eec83e&point=cf6e1f&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center" margin="1rem">
   <a href="https://github.com/MayconSlv">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mayconslv&show_icons=true&icon_color=F48F3D&bg_color=0d1116&text_color=efc83e&border_color=F48F3D&title_color=F48F3D&include_all_commits=true&count_private=true"/>
