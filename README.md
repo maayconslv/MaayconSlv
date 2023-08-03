@@ -1,37 +1,42 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F48F3D&height=120&section=header"/>
+# Maycon Silva
+### Desenvolvedor web
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F48F3D&size=35&center=true&vCenter=true&width=1000&lines=Opa!+Eu+sou+Maycon,+;Bem-vindo+ao+meu+github;+:%29)](https://git.io/typing-svg)
+[![Linkedin Badge](https://img.shields.io/badge/-Maycon%20Silva-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/mayconslv/) 
+[![Gmail Badge](https://img.shields.io/badge/-mayconslv.contato@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconslv.contato@gmail.com)](mailto:mayconslv.contato@gmail.com)
 
-<p align="justify">Oioi, sou Maycon Silva, tenho 20 anos e estou estudando programação na ONG Programadores do Amanhã. E também sigo me especializando em React pela trilha ignite da Rocketseat. Comecei meus estudos em JavaScript no final de 2022, e tenho evoluído constantemente minhas skills desde então. Já desenvolvi diversos projetos utilizando tecnologias como: React Js, Typescript e espero que curtam acompanhar minha evolução a partir de meus repositórios!</p>
 
-<div align="center" margin="1rem">
-  <a href="https://github.com/MayconSlv">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mayconslv&show_icons=true&icon_color=F48F3D&bg_color=0d1116&text_color=efc83e&border_color=F48F3D&title_color=F48F3D&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconslv&layout=compact&langs_count=5&icon_color=F58F3D&bg_color=0d1116&text_color=eec83e&border_color=F48F3D&title_color=F48F3D"/>
-  </a>
-</div>
+Sou Maycon, tenho 21 anos e estou estudando programação me especializando em React e Node pela ONG Programadores do Amanhã e pela trilha ignite da Rocketseat. Comecei meus estudos em JavaScript no final de 2022, e tenho evoluído constantemente desde então.
 
-##
-
-### Skills principais:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff0&labelColor=0D1117)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=E4C817&labelColor=0D1117)&nbsp; 
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=2F74C0&labelColor=0D1117)&nbsp; 
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=HTML5&&logoColor=eeb63elabelColor=DD4B25)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-### Estudando nesse momento:
-![Next](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff0&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React.native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-### Contato:
-
-  <a href = "mailto:mayconslv.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jmayconsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+#
  
-## 
-  
-![Snake animation](https://github.com/MayconSlv/MayconSlv/blob/output/github-contribution-grid-snake.svg)
+<img src="https://i.ibb.co/XSFtMrT/aviao.png" min-width="350px" max-width="350px" width="350px" align="left" alt="Paperplane">
 
+<p align="right"> 
+  Após passar por dificuldades no início por não ter um equipamento <br />
+  adequado e internet em casa, fui convidado a participar do <br />
+  Programadores do Amanhã e lá tive aulas não só de programação, <br />
+  como de inglês, soft-skills, e me deram suporte para estudar <br />
+  e contribuir em minha evolução que vocês podem acompanhar <br />
+  por meio de meus repositórios e Linkedin! <br />
+</p>
+
+<p align="right">
+  💡MINHAS SKILLS: <br />
+  <strong>React, Next, Node, Javascript, Typescript, <br />
+  Python básico, Git, Github, HTML5, CSS3, <br />
+  </strong>
+</p>
+
+<p align="right">
+ 📝 ESTUDANDO NO MOMENTO: <br />
+Nodejs, Express, Nextjs, Mongodb(noSQL) <br />
+ 
+</p>
+
+#
+
+### Outros conhecimentos:
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![TailwindCss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=emillykamile&theme=gotham&hide_border=true&area=true) -->
