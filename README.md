@@ -9,7 +9,7 @@ Sou Maycon, tenho 21 anos e estou estudando programação me especializando em R
 
 #
  
-<img src="https://i.ibb.co/XSFtMrT/aviao.png" min-width="350px" max-width="350px" width="350px" align="left" alt="Paperplane">
+<img src="https://i.ibb.co/XSFtMrT/aviao.png" min-width="300px" max-width="300px" width="300px" align="left" alt="Paperplane">
 
 <p align="right"> 
   Após passar por dificuldades no início por não ter um equipamento <br />
@@ -38,5 +38,6 @@ Nodejs, Express, Nextjs, Mongodb(noSQL) <br />
 ### Outros conhecimentos:
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=emillykamile&theme=gotham&hide_border=true&area=true) -->
