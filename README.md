@@ -22,14 +22,14 @@ Sou Maycon, tenho 21 anos e estou estudando programação me especializando em R
 
 <p align="right">
   💡MINHAS SKILLS: <br />
-  <strong>React, Next, Node, Javascript, Typescript, <br />
+  <strong>React, Next, Express, Javascript, Typescript, <br />
   Python básico, Git, Github, HTML5, CSS3, <br />
   </strong>
 </p>
 
 <p align="right">
  📝 ESTUDANDO NO MOMENTO: <br />
-Nodejs, Express, Nextjs, Mongodb(noSQL) <br />
+Nodejs, Express, Nextjs, Mongodb, SQLite <br />
  
 </p>
 
@@ -38,6 +38,8 @@ Nodejs, Express, Nextjs, Mongodb(noSQL) <br />
 ### Outros conhecimentos:
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+![Nodejs](https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=emillykamile&theme=gotham&hide_border=true&area=true) -->
