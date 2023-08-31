@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mayconslv.contato@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconslv.contato@gmail.com)](mailto:mayconslv.contato@gmail.com)
 
 
-Sou Maycon, tenho 21 anos e estou estudando programação me especializando em React e Node pela ONG Programadores do Amanhã e pela trilha ignite da Rocketseat. Comecei meus estudos em JavaScript no final de 2022, e tenho evoluído constantemente desde então.
+Sou Maycon, tenho 21 anos e sou desenvolvedor React e Node formado pela ONG Programadores do Amanhã e pela trilha ignite da Rocketseat. Comecei meus estudos em JavaScript no final de 2022, e tenho evoluído constantemente desde então.
 
 #
  
