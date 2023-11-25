@@ -1,14 +1,14 @@
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/MayconSlv/5940c50759a825b56db726a17dfda496/raw/1cfd7d90894c55f6562e4871e3eb017679c73e7a/githubcard.svg" />
 
-<h1 align="left">Hey there 👋, I'm Maycon</h1>
+<h1 align="left">Hey there, I'm Maycon</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maycon%20Silva-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/mayconslv/) 
 [![Gmail Badge](https://img.shields.io/badge/-mayconslv.contato@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconslv.contato@gmail.com)](mailto:mayconslv.contato@gmail.com)
 
-- 🧡 A web developer passionate about learning and teaching others
-- 💛Trained as a full-stack developer by [Programadores do Amanha](https://programadoresdoamanha.org/)💜
-- 💼 I'm currently working on [Taqtile](https://instituto.taqtile.com.br/)
-- 💬 Ask me about **Javascript, Typescript, Node.JS, React, HTML, CSS**
+- A web developer passionate about learning and teaching others
+- Trained as a full-stack developer by [Programadores do Amanha](https://programadoresdoamanha.org/)
+- I'm currently working on [Taqtile](https://instituto.taqtile.com.br/)
+- Ask me about **Javascript, Typescript, Node.JS, React, HTML, CSS**
 
 ## 🛠️ &nbsp;Tech Stack
 
