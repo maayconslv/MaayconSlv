@@ -1,41 +1,27 @@
-# Maycon Silva
-### Desenvolvedor web
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MayconSlv/5940c50759a825b56db726a17dfda496/raw/1cfd7d90894c55f6562e4871e3eb017679c73e7a/githubcard.svg" />
+
+<h1 align="left">Hey there 👋, I'm Maycon</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maycon%20Silva-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/mayconslv/) 
 [![Gmail Badge](https://img.shields.io/badge/-mayconslv.contato@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconslv.contato@gmail.com)](mailto:mayconslv.contato@gmail.com)
 
+- 🧡 A web developer passionate about learning and teaching others
+- 💛Trained as a full-stack developer by [Programadores do Amanha](https://programadoresdoamanha.org/)💜
+- 💼 I'm currently working on [Taqtile](https://instituto.taqtile.com.br/)
+- 💬 Ask me about **Javascript, Typescript, Node.JS, React, HTML, CSS**
 
-Sou Maycon, tenho 21 anos e sou desenvolvedor React e Node formado pela ONG Programadores do Amanhã e pela trilha ignite da Rocketseat. Comecei meus estudos em JavaScript no final de 2022, e tenho evoluído constantemente desde então.
+## 🛠️ &nbsp;Tech Stack
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mayconslv&show_icons=true&count_private=true&title_color=18F9D8&icon_color=00B79E&text_color=c9d1d9&bg_color=0d1117&border_color=00B79E" alt="Emilly Kamile" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconslv&layout=compact&title_color=18F9D8&icon_color=00B79E&text_color=c9d1d9&bg_color=0d1117&border_color=00B79E" />
-</div>
-
-#
- 
-<img src="https://i.ibb.co/XSFtMrT/aviao.png" min-width="300px" max-width="300px" width="300px" align="left" alt="Paperplane">
-
-<p align="right">
-  💡MINHAS SKILLS: <br />
-  <strong>React, Next, Express, Javascript, Typescript, <br />
-  Graphql, Nodejs, Git, Github, HTML5, CSS3, <br />
-  </strong>
-</p>
-
-<p align="right">
- 📝 ESTUDANDO NO MOMENTO: <br />
-Nodejs, Express, Nextjs, Graphql, MySQL <br />
- 
-</p>
-
-#
-
-### Outros conhecimentos:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![TailwindCss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
+## ⚙️ &nbsp;Others Tech
 
-<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=emillykamile&theme=gotham&hide_border=true&area=true) -->
+![Next](https://img.shields.io/badge/-next-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
+![TailwindCss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
