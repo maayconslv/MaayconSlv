@@ -7,29 +7,25 @@
 
 Sou Maycon, tenho 21 anos e sou desenvolvedor React e Node formado pela ONG Programadores do Amanhã e pela trilha ignite da Rocketseat. Comecei meus estudos em JavaScript no final de 2022, e tenho evoluído constantemente desde então.
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mayconslv&show_icons=true&count_private=true&title_color=18F9D8&icon_color=00B79E&text_color=c9d1d9&bg_color=0d1117&border_color=00B79E" alt="Emilly Kamile" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconslv&layout=compact&title_color=18F9D8&icon_color=00B79E&text_color=c9d1d9&bg_color=0d1117&border_color=00B79E" />
+</div>
+
 #
  
 <img src="https://i.ibb.co/XSFtMrT/aviao.png" min-width="300px" max-width="300px" width="300px" align="left" alt="Paperplane">
 
-<p align="right"> 
-  Após passar por dificuldades no início por não ter um equipamento <br />
-  adequado e internet em casa, fui convidado a participar do <br />
-  Programadores do Amanhã e lá tive aulas não só de programação, <br />
-  como de inglês, soft-skills, e me deram suporte para estudar <br />
-  e contribuir em minha evolução que vocês podem acompanhar <br />
-  por meio de meus repositórios e Linkedin! <br />
-</p>
-
 <p align="right">
   💡MINHAS SKILLS: <br />
   <strong>React, Next, Express, Javascript, Typescript, <br />
-  Python básico, Git, Github, HTML5, CSS3, <br />
+  Graphql, Nodejs, Git, Github, HTML5, CSS3, <br />
   </strong>
 </p>
 
 <p align="right">
  📝 ESTUDANDO NO MOMENTO: <br />
-Nodejs, Express, Nextjs, Mongodb, SQLite <br />
+Nodejs, Express, Nextjs, Graphql, MySQL <br />
  
 </p>
 
