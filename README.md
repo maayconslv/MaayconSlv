@@ -7,7 +7,7 @@
 
 - A web developer passionate about learning and teaching
 - Trained as a full-stack developer by [Programadores do Amanha](https://programadoresdoamanha.org/)
-- I'm currently working on [Taqtile](https://taqtile.com.br/)
+- I'm currently working on [Instituto Taqtile]([https://taqtile.com.br/](https://instituto.taqtile.com.br/))
 - Ask me about **Javascript, Typescript, Node.JS, React, HTML, CSS**
 
 ## 🛠️ &nbsp;Tech Stack
