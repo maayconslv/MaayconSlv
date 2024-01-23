@@ -18,6 +18,7 @@
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PosgreSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
 ## ⚙️ &nbsp;Others Tech
 
