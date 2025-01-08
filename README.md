@@ -7,8 +7,8 @@
 
 - A web developer passionate about learning and teaching
 - Trained as a full-stack developer by [Programadores do Amanha](https://programadoresdoamanha.org/)
-- I'm currently working on [Instituto Taqtile](https://taqtile.com.br/](https://instituto.taqtile.com.br/))
-- Ask me about **Javascript, Typescript, Node.JS, React, HTML, CSS**
+- I'm currently looking for a backend job
+- Ask me about **Javascript, Typescript, Node.JS, GraphQL, SQL, Java, React, HTML, CSS**
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -17,8 +17,10 @@
 ![Nodejs](https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PosgreSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 
 ## ⚙️ &nbsp;Others Tech
 
