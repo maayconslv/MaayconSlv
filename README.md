@@ -4,6 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maycon%20Silva-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/mayconslv/) 
 [![Gmail Badge](https://img.shields.io/badge/-mayconslv.contato@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconslv.contato@gmail.com)](mailto:mayconslv.contato@gmail.com)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mayconslv)
 
 - A web developer passionate about learning and teaching
 - Trained as a full-stack developer by [Programadores do Amanha](https://programadoresdoamanha.org/)
@@ -26,5 +27,3 @@
 ![Next](https://img.shields.io/badge/-next-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-
