@@ -27,3 +27,23 @@
 ![Next](https://img.shields.io/badge/-next-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+
+```java
+pubilc class NeverGiveUp {
+  public static void main(String[] args) {
+    Objective objective = new Objective();
+
+    while(!perserverance.isSuccess()) {
+      objective.tryAgain();
+      objective.dontGiveUp();
+      objective.beAwesome();
+      objective.staypMotivated();
+    }
+
+    if(perseverance.isSuccess()) {
+      objective.celebrate();
+    }
+  }
+}
+```
