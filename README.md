@@ -29,7 +29,7 @@
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
-<!-- ```java
+```java
 pubilc class NeverGiveUp {
   public static void main(String[] args) {
     Objective objective = new Objective();
@@ -47,4 +47,3 @@ pubilc class NeverGiveUp {
   }
 }
 ```
--->
