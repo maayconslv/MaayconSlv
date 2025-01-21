@@ -38,7 +38,7 @@ pubilc class NeverGiveUp {
       objective.tryAgain();
       objective.dontGiveUp();
       objective.beAwesome();
-      objective.staypMotivated();
+      objective.stayMotivated();
     }
 
     if(perseverance.isSuccess()) {
