@@ -8,8 +8,7 @@
 
 - A web developer passionate about learning and teaching
 - Trained as a full-stack developer by [Programadores do Amanha](https://programadoresdoamanha.org/)
-- I'm currently looking for a backend job
-- Ask me about **Javascript, Typescript, Node.JS, GraphQL, SQL, Java, React, HTML, CSS**
+- Ask me about **Javascript, Typescript, Node.JS, GraphQL, SQL, Java, React, Next, HTML, CSS**
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -19,31 +18,12 @@
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-
-## ⚙️ &nbsp;Others Tech
-
 ![Next](https://img.shields.io/badge/-next-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
+## ⚙️ &nbsp;Others Tech
 
-```java
-pubilc class NeverGiveUp {
-  public static void main(String[] args) {
-    Objective objective = new Objective();
-
-    while(!perserverance.isSuccess()) {
-      objective.tryAgain();
-      objective.dontGiveUp();
-      objective.beAwesome();
-      objective.stayMotivated();
-    }
-
-    if(perseverance.isSuccess()) {
-      objective.celebrate();
-    }
-  }
-}
-```
+![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
